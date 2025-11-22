@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1763815617|1140357437';
+const CACHE_VERSION = '1763816016|1539007385';
 /** @type {string} */
 const CACHE_PREFIX = '01_Little_Mazes-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
